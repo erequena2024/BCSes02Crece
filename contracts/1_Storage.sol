@@ -9,7 +9,7 @@ pragma solidity >=0.8.2 <0.9.0;
  */
 contract Storage {
 
-    uint256 number; //variable de estado
+    uint256 number; //variable de estado de tipo uint256
 
     /**
      * @dev Store value in variable
